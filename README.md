@@ -88,7 +88,3 @@ This project is licensed under the **MIT License** – free to use, modify, and 
 - Built as a **learning project** for web development and data science integration.
 
 ---
-
-This README is now complete in Markdown form. It’s structured, professional, and makes your repo look like a polished project.  
-
-Would you like me to also add a **“Screenshots” section** with placeholders, so you can drop in images of your crypto dashboard later for extra visual appeal?
