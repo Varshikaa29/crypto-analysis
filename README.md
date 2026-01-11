@@ -1,7 +1,5 @@
 # 🚀 Crypto Analysis 💹✨
 
-![Crypto Banner](https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif)
-
 A simple yet powerful **cryptocurrency analysis project** built with HTML and hosted on **GitHub Pages**.  
 👉 Live Demo: [varshikaa29.github.io/crypto-analysis](https://varshikaa29.github.io/crypto-analysis)
 
