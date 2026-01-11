@@ -122,7 +122,7 @@ Got a new feature idea? Found a bug in the smart contract (code)?
 
 <div align="center">
 <p>Made with 💙 and ☕ by <strong>Varshikaa</strong></p>
-<a href="https://github.com/Varshikaa29">
+<!-- <a href="https://github.com/Varshikaa29">
 <img src="https://www.google.com/search?q=https://img.shields.io/badge/Follow-Varshikaa29-black%3Fstyle%3Dflat-square%26logo%3Dgithub" alt="Follow">
-</a>
+</a> -->
 </div>
